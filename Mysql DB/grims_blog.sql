@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Mar 09, 2022 at 08:57 AM
+-- Generation Time: Mar 09, 2022 at 02:08 PM
 -- Server version: 10.4.13-MariaDB
 -- PHP Version: 7.4.8
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `wpu_blog`
+-- Database: `grims_blog`
 --
 
 -- --------------------------------------------------------
@@ -161,7 +161,8 @@ INSERT INTO `posts` (`id`, `category_id`, `user_id`, `title`, `slug`, `image`, `
 (18, 3, 3, 'Officiis reprehenderit harum sint recusandae.', 'nemo-cum-voluptas-eum-unde-totam-deserunt', NULL, 'Aliquid nemo dicta minima. Officiis laborum similique voluptatem vel delectus. Ratione repudiandae ut voluptas corporis quasi enim. Maiores dolor sit ratione deserunt at temporibus omnis.', '<p>Laudantium occaecati eum sed ipsam. Perferendis quidem ducimus debitis mollitia laborum sed consequuntur.</p><p>Repellat qui reprehenderit quia omnis qui soluta quidem. Quas aperiam libero dolore velit sit sunt commodi unde. Qui libero fugiat excepturi officiis.</p><p>Reprehenderit quia vitae necessitatibus et nihil et odit neque. Ut omnis pariatur rerum. Quia facilis voluptatem sunt officia non blanditiis asperiores. Deleniti quisquam voluptatem aut corporis voluptatem.</p><p>Eius illo recusandae adipisci beatae. Quidem incidunt quidem sunt et et reiciendis explicabo. Est repellat ipsum qui laborum vel vero aut. Nulla dolore dolorum esse dignissimos magnam voluptatem perspiciatis.</p><p>Qui quia vel dolore cum voluptate porro quas. Nobis eaque et ipsa quaerat nobis. Aut cumque qui tempore aut.</p><p>Odit iusto molestias quasi id debitis. Aut sit temporibus illo.</p>', NULL, '2022-03-05 02:15:10', '2022-03-05 02:15:10'),
 (19, 3, 1, 'Aut repudiandae iure a vel aut eos sit.', 'sequi-est-repellendus-eius-facilis-similique', NULL, 'Ducimus ex sed quia eos. Dignissimos quidem qui corrupti aut. Velit est consequatur commodi voluptatum esse. Quasi aliquam suscipit ut.', '<p>Ut ratione explicabo occaecati ut. Fugit sit at quod ad. Provident et deleniti quia culpa. Enim qui rem ea quaerat similique quos consequuntur.</p><p>Et velit velit voluptas reprehenderit dolor eaque. Saepe et quis et optio facere expedita doloremque. Fugit voluptatibus deleniti praesentium. Itaque praesentium laboriosam molestias et ut in ea.</p><p>Ipsum dolores laudantium asperiores in et natus in neque. Expedita culpa adipisci incidunt minus autem. Et minima modi ea amet cupiditate. Fugiat cum aspernatur maiores vero omnis ea debitis.</p><p>Corrupti tempore id quia consectetur cumque. Dolor modi neque aliquid ad nisi quod. Velit alias repudiandae cupiditate.</p><p>Cum libero veniam cumque quasi accusamus. Hic eos tenetur eos dolorem. Modi voluptatem at voluptatem. Quo quia excepturi aut vero reiciendis et. Est at sit soluta beatae commodi repudiandae.</p><p>Modi non exercitationem dolorum autem. Est ipsa eos enim doloribus hic. Reprehenderit et magni asperiores. Vitae rerum qui ipsam voluptatem.</p><p>Incidunt aperiam aliquid magnam doloribus non. Nesciunt possimus dolores ipsum quas aut. Quae eum quia facilis explicabo molestias. Velit cupiditate qui reiciendis fugit.</p><p>Debitis reprehenderit repudiandae incidunt consequuntur. Ratione et magni quod eum perferendis autem officia. Reprehenderit est quia dolor deleniti consectetur ipsam. Aut odio recusandae laborum veniam et voluptas sint repudiandae.</p>', NULL, '2022-03-05 02:15:10', '2022-03-05 02:15:10'),
 (20, 2, 1, 'Dignissimos ullam eos iusto officiis temporibus nam.', 'quis-id-aut-dolorum-nostrum', NULL, 'Rerum nam et voluptate voluptas qui dicta non molestias. Nihil omnis consequatur hic sunt harum omnis rerum. Voluptatum consequuntur aliquid voluptatem aliquid sed. Molestias eligendi quam dolor possimus.', '<p>Dolor eveniet ut perspiciatis officia aut. Praesentium laborum aperiam ut saepe praesentium cumque repellat. Officia quidem accusantium ea eum ut magnam. In est quia ut atque animi.</p><p>Itaque quia aspernatur facilis inventore. Asperiores incidunt modi voluptatum harum id.</p><p>Numquam sit possimus corporis. Dolorem molestiae aspernatur aut. Dicta fugiat et mollitia vel dolorem earum. Impedit impedit et assumenda autem. Voluptates qui atque voluptatem enim voluptatem sit.</p><p>Ut dolorum officia reiciendis esse sit vero illo. Natus dolor animi iusto aspernatur ea. Modi deserunt hic repudiandae odio ut labore. Quaerat dolor non nesciunt excepturi qui.</p><p>Quasi ratione cupiditate sit quam. Eos voluptatem quidem nostrum reprehenderit. Nemo labore fugiat esse adipisci tenetur nobis rerum. Voluptatem quae nobis qui dolor numquam esse. Id minima necessitatibus alias qui labore.</p><p>Rerum magni veritatis voluptatem voluptate. Est eos quae mollitia earum at et officia. Voluptatibus cum saepe adipisci ut est.</p>', NULL, '2022-03-05 02:15:10', '2022-03-05 02:15:10'),
-(22, 3, 1, 'Travels Incorporate', 'travels-inc', 'post-images/ac91mFwggM5Nn6S3gW2qUn2CN5DoyGutlzfIzM3Y.jpg', 'JAJAN GAESHAAHAHA', '<div><strong>JAJAN GAES</strong><br><br>HAAHAHA</div>', NULL, '2022-03-05 02:36:17', '2022-03-08 07:04:16');
+(22, 3, 1, 'Travels Incorporate', 'travels-inc', 'post-images/ac91mFwggM5Nn6S3gW2qUn2CN5DoyGutlzfIzM3Y.jpg', 'JAJAN GAESHAAHAHA', '<div><strong>JAJAN GAES</strong><br><br>HAAHAHA</div>', NULL, '2022-03-05 02:36:17', '2022-03-08 07:04:16'),
+(26, 4, 1, 'What Is Testing', 'what-is-testing', 'post-images/g1fZ2MjqX1bsytazO8R1tB2SvXMxlheWiSrXyswA.jpg', 'I Dunno MenThis Is CRYY', '<div><strong>I Dunno Men</strong><br><br>This Is CRYY</div>', NULL, '2022-03-09 01:09:39', '2022-03-09 01:09:54');
 
 -- --------------------------------------------------------
 
@@ -277,7 +278,7 @@ ALTER TABLE `personal_access_tokens`
 -- AUTO_INCREMENT for table `posts`
 --
 ALTER TABLE `posts`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
 
 --
 -- AUTO_INCREMENT for table `users`
